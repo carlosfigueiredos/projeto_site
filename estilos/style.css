@@ -1,0 +1,29 @@
+header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }
+
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  p.b {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  div.a {
+    font-size: 15px;
+  }
+  
+  div.b {
+    font-size: large;
+  }
+  
+  div.c {
+    font-size: 150%;
+  }
+
+  p {
+    margin: 35px;
+  }
+  
